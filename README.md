@@ -1,4 +1,4 @@
-# IrrigationWemos
+# Simple home automation IoT device to water your plants
 ## Project featuring ESP8266 DeepSleep and IoT communication.
 ## Autho: Alvaro Munhoz Mota
 ### About
