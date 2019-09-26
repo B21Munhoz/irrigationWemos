@@ -1,6 +1,9 @@
 # IrrigationWemos
 ## Project featuring ESP8266 DeepSleep and IoT communication.
-
+## Autho: Alvaro Munhoz Mota
+### About
+This is a simple project I've made to keep my plants alive while travelling and make sure they are ok.
+Feel free to use it.
 #### What I used for the final hardware
 - WeMos D1 Mini (**be careful, since it's operating voltage is 3.3V !**).
 - 125V, 0.5m water pump
